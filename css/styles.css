@@ -1,0 +1,21 @@
+:root {
+  --primary:#FFF;
+  --secondary:#000;
+}
+
+* {
+  box-sizing:border-box;
+  scroll-behavior: smooth;
+}
+
+html {
+  background: white;
+  color: var(--primary);
+}
+svg {
+  max-width: 50vw;
+}
+
+a {
+ color: whitesmoke;
+}
